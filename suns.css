@@ -35,9 +35,8 @@
   }
 
   .u-section-1 .u-text-1 {
-    width: 340px;
+    width: auto;
     margin-top: 49px;
-    margin-bottom: 20px;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 200px;
