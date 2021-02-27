@@ -32495,13 +32495,15 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-menu-1 {
-    margin-top: 12px;
+    width: auto;
+    margin-top: 16px;
+    margin-left: 154px;
   }
 
   .u-header .u-social-icons-1 {
     height: 40px;
     width: 40px;
-    margin-top: -33px;
+    margin-top: -37px;
     margin-right: 0;
   }
 
