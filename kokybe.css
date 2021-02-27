@@ -30,9 +30,10 @@
 .u-section-1 .u-image-1 {
   width: 610px;
   height: 610px;
-  background-image: url("images/Champion2.png");
+  background-image: url("images/Olymp-sausas-maistas-sunims-reico1.png");
   background-position: 50% 50%;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
   margin: -259px auto 0 235px;
 }
 
@@ -1330,7 +1331,7 @@
     min-height: 149px;
   }
 }.u-section-9 {
-  background-image: linear-gradient(#bfceb7, #e5e5e5);
+  background-image: linear-gradient(rgba(191,206,183,0.5), #e5e5e5);
 }
 
 .u-section-9 .u-sheet-1 {
