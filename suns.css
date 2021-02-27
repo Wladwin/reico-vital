@@ -854,6 +854,14 @@
   padding: 20px;
 }
 
+.u-section-5 .embed-responsive-1 {
+  position: absolute;
+  width: 210%;
+  left: -55%;
+  height: 100%;
+  top: 0%;
+}
+
 @media (max-width: 1199px) {
   .u-section-5 .u-sheet-1 {
     min-height: 500px;
