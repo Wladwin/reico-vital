@@ -193,7 +193,7 @@
 }
 
 .u-section-2 .u-text-2 {
-  margin: 0 475px 0 0;
+  margin: 0 547px 0 0;
 }
 
 @media (max-width: 1199px) {
@@ -215,7 +215,7 @@
   }
 
   .u-section-2 .u-text-2 {
-    margin-right: 275px;
+    margin-right: 347px;
   }
 }
 
@@ -234,7 +234,7 @@
   }
 
   .u-section-2 .u-text-2 {
-    margin-right: 55px;
+    margin-right: 127px;
   }
 }
 
@@ -684,6 +684,7 @@
   font-weight: 700;
   background-image: none;
   letter-spacing: normal;
+  text-transform: none;
   margin: 20px auto;
 }
 
@@ -691,10 +692,6 @@
   .u-section-5 .u-text-1 {
     margin-left: 77px;
     margin-right: 77px;
-  }
-
-  .u-section-5 .u-btn-1 {
-    text-transform: none;
   }
 }
 
