@@ -173,7 +173,7 @@
 
 .u-section-2 .u-text-1 {
   font-size: 3.75rem;
-  margin: 6px auto 0;
+  margin: 6px 146px 0;
 }
 
 .u-section-2 .u-layout-wrap-1 {
@@ -183,6 +183,7 @@
 
 .u-section-2 .u-layout-cell-1 {
   min-height: 284px;
+  background-image: none;
 }
 
 .u-section-2 .u-container-layout-1 {
@@ -190,12 +191,17 @@
 }
 
 .u-section-2 .u-text-2 {
-  margin: 0 auto 0 0;
+  margin: 0 578px 0 0;
 }
 
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
     min-height: 360px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-left: 46px;
+    margin-right: 46px;
   }
 
   .u-section-2 .u-layout-wrap-1 {
@@ -205,6 +211,10 @@
   .u-section-2 .u-layout-cell-1 {
     min-height: 234px;
   }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 378px;
+  }
 }
 
 @media (max-width: 991px) {
@@ -212,8 +222,17 @@
     min-height: 226px;
   }
 
+  .u-section-2 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
   .u-section-2 .u-layout-cell-1 {
     min-height: 100px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 158px;
   }
 }
 
@@ -221,6 +240,10 @@
   .u-section-2 .u-container-layout-1 {
     padding-left: 10px;
     padding-right: 10px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 18px;
   }
 }
 
@@ -246,6 +269,7 @@
 
   .u-section-2 .u-text-2 {
     margin-top: 1px;
+    margin-right: 0;
   }
 }.u-section-3 {
   background-image: none;
@@ -294,7 +318,7 @@
 
 .u-section-3 .u-text-3 {
   font-size: 1.875rem;
-  margin: 26px auto 14px;
+  margin: 26px 287px 14px;
 }
 
 @media (max-width: 1199px) {
@@ -323,6 +347,11 @@
   .u-section-3 .u-container-layout-2 {
     padding-left: 49px;
     padding-right: 49px;
+  }
+
+  .u-section-3 .u-text-3 {
+    margin-right: 187px;
+    margin-left: 187px;
   }
 }
 
@@ -358,6 +387,11 @@
     padding-left: 30px;
     padding-right: 30px;
   }
+
+  .u-section-3 .u-text-3 {
+    margin-right: 77px;
+    margin-left: 77px;
+  }
 }
 
 @media (max-width: 767px) {
@@ -385,6 +419,11 @@
   .u-section-3 .u-container-layout-2 {
     padding-left: 10px;
     padding-right: 10px;
+  }
+
+  .u-section-3 .u-text-3 {
+    margin-right: 0;
+    margin-left: 0;
   }
 }
 
