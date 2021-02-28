@@ -156,7 +156,7 @@
     margin-left: auto;
   }
 }.u-section-3 {
-  background-image: linear-gradient(rgba(191,206,183,0.5), #f2f2f2);
+  background-image: linear-gradient(#bfceb7, #f2f2f2);
 }
 
 .u-section-3 .u-sheet-1 {
@@ -957,7 +957,7 @@
     margin-top: 20px;
   }
 }.u-section-4 {
-  background-image: linear-gradient(#f2f2f2, rgba(191,206,183,0.5));
+  background-image: linear-gradient(#f2f2f2, #bfceb7);
 }
 
 .u-section-4 .u-sheet-1 {
