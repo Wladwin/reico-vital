@@ -433,16 +433,18 @@
 .u-section-4 .u-accordion-link-1 {
   background-image: none;
   text-transform: none;
+  margin-bottom: 0;
   padding: 30px;
 }
 
 .u-section-4 .u-accordion-pane-1 {
-  min-height: 150px;
+  min-height: 0;
   background-image: none;
+  height: auto;
 }
 
 .u-section-4 .u-container-layout-1 {
-  padding: 30px;
+  padding: 0 30px;
 }
 
 .u-section-4 .u-accordion-item-2 {
@@ -457,8 +459,9 @@
 }
 
 .u-section-4 .u-accordion-pane-2 {
-  min-height: 150px;
+  min-height: 0;
   background-image: none;
+  height: auto;
 }
 
 .u-section-4 .u-container-layout-2 {
@@ -482,8 +485,9 @@
 }
 
 .u-section-4 .u-accordion-pane-3 {
-  min-height: 150px;
+  min-height: 0;
   background-image: none;
+  height: auto;
 }
 
 .u-section-4 .u-container-layout-3 {
@@ -507,8 +511,9 @@
 }
 
 .u-section-4 .u-accordion-pane-4 {
-  min-height: 150px;
+  min-height: 0;
   background-image: none;
+  height: auto;
 }
 
 .u-section-4 .u-container-layout-4 {
@@ -532,8 +537,9 @@
 }
 
 .u-section-4 .u-accordion-pane-5 {
-  min-height: 150px;
+  min-height: 0;
   background-image: none;
+  height: auto;
 }
 
 .u-section-4 .u-container-layout-5 {
@@ -557,8 +563,9 @@
 }
 
 .u-section-4 .u-accordion-pane-6 {
-  min-height: 150px;
+  min-height: 0;
   background-image: none;
+  height: auto;
 }
 
 .u-section-4 .u-container-layout-6 {
@@ -582,8 +589,9 @@
 }
 
 .u-section-4 .u-accordion-pane-7 {
-  min-height: 150px;
+  min-height: 0;
   background-image: none;
+  height: auto;
 }
 
 .u-section-4 .u-container-layout-7 {
@@ -617,33 +625,24 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-4 .u-accordion-pane-1 {
-    height: auto;
-  }
-
   .u-section-4 .u-accordion-pane-2 {
     min-height: 139px;
-    height: auto;
   }
 
   .u-section-4 .u-accordion-pane-3 {
     min-height: 139px;
-    height: auto;
   }
 
   .u-section-4 .u-accordion-pane-4 {
     min-height: 139px;
-    height: auto;
   }
 
   .u-section-4 .u-accordion-pane-5 {
     min-height: 139px;
-    height: auto;
   }
 
   .u-section-4 .u-accordion-pane-6 {
     min-height: 139px;
-    height: auto;
   }
 
   .u-section-4 .u-accordion-link-7 {
@@ -652,7 +651,6 @@
 
   .u-section-4 .u-accordion-pane-7 {
     min-height: 139px;
-    height: auto;
   }
 
   .u-section-4 .u-text-6 {
