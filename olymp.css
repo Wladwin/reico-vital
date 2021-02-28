@@ -170,7 +170,7 @@
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 410px;
+  min-height: 428px;
 }
 
 .u-section-2 .u-text-1 {
@@ -179,21 +179,21 @@
 }
 
 .u-section-2 .u-layout-wrap-1 {
-  margin-top: 17px;
+  margin-top: 20px;
   margin-bottom: 20px;
 }
 
 .u-section-2 .u-layout-cell-1 {
-  min-height: 284px;
+  min-height: 319px;
   background-image: none;
 }
 
 .u-section-2 .u-container-layout-1 {
-  padding: 30px 30px 29px;
+  padding: 30px;
 }
 
 .u-section-2 .u-text-2 {
-  margin: 0 578px 0 0;
+  margin: 0 475px 0 0;
 }
 
 @media (max-width: 1199px) {
@@ -211,11 +211,11 @@
   }
 
   .u-section-2 .u-layout-cell-1 {
-    min-height: 234px;
+    min-height: 263px;
   }
 
   .u-section-2 .u-text-2 {
-    margin-right: 378px;
+    margin-right: 275px;
   }
 }
 
@@ -234,7 +234,7 @@
   }
 
   .u-section-2 .u-text-2 {
-    margin-right: 158px;
+    margin-right: 55px;
   }
 }
 
@@ -245,7 +245,7 @@
   }
 
   .u-section-2 .u-text-2 {
-    margin-right: 18px;
+    margin-right: 0;
   }
 }
 
@@ -270,12 +270,10 @@
 
   .u-section-2 .u-container-layout-1 {
     padding-top: 29px;
-    padding-bottom: 30px;
   }
 
   .u-section-2 .u-text-2 {
     width: auto;
-    margin-right: 0;
   }
 }.u-section-3 {
   background-image: none;
@@ -434,6 +432,7 @@
   background-image: none;
   text-transform: none;
   margin-bottom: 0;
+  font-size: 1.25rem;
   padding: 30px;
 }
 
@@ -455,6 +454,7 @@
 .u-section-4 .u-accordion-link-2 {
   background-image: none;
   text-transform: none;
+  font-size: 1.25rem;
   padding: 30px;
 }
 
@@ -481,6 +481,7 @@
 .u-section-4 .u-accordion-link-3 {
   background-image: none;
   text-transform: none;
+  font-size: 1.25rem;
   padding: 30px;
 }
 
@@ -507,6 +508,7 @@
 .u-section-4 .u-accordion-link-4 {
   background-image: none;
   text-transform: none;
+  font-size: 1.25rem;
   padding: 30px;
 }
 
@@ -533,6 +535,7 @@
 .u-section-4 .u-accordion-link-5 {
   background-image: none;
   text-transform: none;
+  font-size: 1.25rem;
   padding: 30px;
 }
 
@@ -559,6 +562,7 @@
 .u-section-4 .u-accordion-link-6 {
   background-image: none;
   text-transform: none;
+  font-size: 1.25rem;
   padding: 30px;
 }
 
@@ -585,6 +589,7 @@
 .u-section-4 .u-accordion-link-7 {
   background-image: none;
   text-transform: none;
+  font-size: 1.25rem;
   padding: 30px;
 }
 
@@ -677,7 +682,6 @@
   font-size: 1.25rem;
   border-style: solid;
   font-weight: 700;
-  text-transform: uppercase;
   background-image: none;
   letter-spacing: normal;
   margin: 20px auto;
@@ -687,6 +691,10 @@
   .u-section-5 .u-text-1 {
     margin-left: 77px;
     margin-right: 77px;
+  }
+
+  .u-section-5 .u-btn-1 {
+    text-transform: none;
   }
 }
 
