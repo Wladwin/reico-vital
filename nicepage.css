@@ -33031,6 +33031,14 @@ a.u-link.u-text-hover-grey-90:hover {
   font-size: 1rem;
 }
 
+.u-header .u-nav-7 {
+  font-size: 1rem;
+}
+
+.u-header .u-nav-8 {
+  font-size: 1rem;
+}
+
 .u-header .u-social-icons-1 {
   white-space: nowrap;
   height: 52px;
@@ -33118,7 +33126,7 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-image-1 {
     margin-top: -44px;
     margin-bottom: 3px;
-    width: auto;
+    width: 52px;
   }
 
   .u-header .u-logo-image-1 {
