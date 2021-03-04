@@ -184,12 +184,12 @@
 }
 
 .u-section-2 .u-layout-cell-1 {
-  min-height: 319px;
+  min-height: 328px;
   background-image: none;
 }
 
 .u-section-2 .u-container-layout-1 {
-  padding: 30px;
+  padding: 20px 30px;
 }
 
 .u-section-2 .u-text-2 {
@@ -211,7 +211,7 @@
   }
 
   .u-section-2 .u-layout-cell-1 {
-    min-height: 263px;
+    min-height: 270px;
   }
 
   .u-section-2 .u-text-2 {
@@ -436,6 +436,12 @@
   padding: 30px;
 }
 
+.u-section-4 .u-icon-1 {
+  height: 40px;
+  width: 40px;
+  background-image: none;
+}
+
 .u-section-4 .u-accordion-pane-1 {
   min-height: 0;
   background-image: none;
@@ -457,8 +463,14 @@
   padding: 30px;
 }
 
+.u-section-4 .u-icon-2 {
+  height: 40px;
+  width: 40px;
+  background-image: none;
+}
+
 .u-section-4 .u-accordion-pane-2 {
-  min-height: 0;
+  min-height: 476px;
   background-image: none;
 }
 
@@ -481,6 +493,12 @@
   text-transform: none;
   font-size: 1.25rem;
   padding: 30px;
+}
+
+.u-section-4 .u-icon-3 {
+  height: 40px;
+  width: 40px;
+  background-image: none;
 }
 
 .u-section-4 .u-accordion-pane-3 {
@@ -509,6 +527,12 @@
   padding: 30px;
 }
 
+.u-section-4 .u-icon-4 {
+  height: 40px;
+  width: 40px;
+  background-image: none;
+}
+
 .u-section-4 .u-accordion-pane-4 {
   min-height: 0;
   background-image: none;
@@ -533,6 +557,12 @@
   text-transform: none;
   font-size: 1.25rem;
   padding: 30px;
+}
+
+.u-section-4 .u-icon-5 {
+  height: 40px;
+  width: 40px;
+  background-image: none;
 }
 
 .u-section-4 .u-accordion-pane-5 {
@@ -561,6 +591,12 @@
   padding: 30px;
 }
 
+.u-section-4 .u-icon-6 {
+  height: 40px;
+  width: 40px;
+  background-image: none;
+}
+
 .u-section-4 .u-accordion-pane-6 {
   min-height: 0;
   background-image: none;
@@ -585,6 +621,12 @@
   text-transform: none;
   font-size: 1.25rem;
   padding: 30px;
+}
+
+.u-section-4 .u-icon-7 {
+  height: 40px;
+  width: 40px;
+  background-image: none;
 }
 
 .u-section-4 .u-accordion-pane-7 {
@@ -693,22 +735,22 @@
 }
 
 .u-section-5 .u-sheet-1 {
-  min-height: 153px;
+  min-height: 154px;
 }
 
 .u-section-5 .u-text-1 {
   font-size: 1.5rem;
   font-style: normal;
-  margin: 20px 0;
+  margin: 21px 0 0;
 }
 
 .u-section-5 .u-btn-1 {
   font-size: 1.25rem;
   border-style: solid;
-  font-weight: 700;
+  text-transform: uppercase;
   background-image: none;
   letter-spacing: normal;
-  text-transform: none;
+  font-weight: 700;
   margin: 20px auto;
 }
 
