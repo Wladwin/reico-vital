@@ -1,24 +1,22 @@
 .u-section-1 {
   background-image: none;
-}
-
-.u-section-1 .u-sheet-1 {
   min-height: 938px;
 }
 
 .u-section-1 .u-image-1 {
-  object-position: 50% 82.47%;
-  height: 523px;
+  object-position: 50% 70.89%;
+  height: 507px;
   margin-top: 0;
   margin-bottom: 0;
 }
 
 .u-section-1 .u-list-1 {
-  min-height: 408px;
+  min-height: 425px;
   grid-template-columns: 25% 25% 25% 25%;
   width: 1014px;
   grid-gap: 0px 0px;
-  margin: -140px auto 53px;
+  height: auto;
+  margin: -150px auto 60px calc(((100% - 1140px) / 2) + 63px);
 }
 
 .u-section-1 .u-list-item-1 {
@@ -321,18 +319,14 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 1049px;
-  }
-
-  .u-section-1 .u-image-1 {
-    height: 669px;
+  .u-section-1 {
+    min-height: 863px;
   }
 
   .u-section-1 .u-list-1 {
-    min-height: 336px;
+    min-height: 350px;
     width: 900px;
-    height: auto;
+    margin-left: calc(((100% - 940px) / 2));
   }
 
   .u-section-1 .u-btn-1 {
@@ -393,46 +387,33 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 1323px;
+  .u-section-1 {
+    min-height: 1585px;
   }
 
   .u-section-1 .u-list-1 {
-    min-height: 1029px;
+    min-height: 1072px;
     grid-template-columns: calc(50% - 9.33333px) calc(50% - 9.33333px);
     width: 660px;
+    margin-left: calc(((100% - 720px) / 2));
   }
 }
 
 @media (max-width: 767px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 1130px;
-  }
-
-  .u-section-1 .u-image-1 {
-    height: 448px;
-  }
-
   .u-section-1 .u-list-1 {
     grid-template-columns: calc(50% - 9px) calc(50% - 9px);
     width: 510px;
     margin-top: -60px;
+    margin-left: calc(((100% - 1140px) / 2) + 315px);
   }
 }
 
 @media (max-width: 575px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 1654px;
-  }
-
-  .u-section-1 .u-image-1 {
-    height: 364px;
-  }
-
   .u-section-1 .u-list-1 {
     grid-template-columns: 100%;
     width: 303px;
     margin-top: -71px;
+    margin-left: calc(((100% - 1140px) / 2) + 419px);
   }
 
   .u-section-1 .u-btn-1 {
