@@ -32,7 +32,6 @@
 
 .u-section-1 .u-image-1 {
   min-height: 594px;
-  background-image: url("images/57e7dc434a56a514f6da8c7dda793678153bdee757596c48732f72d3964ccc5dba_1280.jpg");
   background-position: 100% 50%;
 }
 
@@ -60,7 +59,7 @@
 
 .u-section-1 .u-image-3 {
   min-height: 169px;
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/895925026-07.jpeg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25));
   background-position: 20.94% 50%;
 }
 
@@ -79,7 +78,7 @@
 
 .u-section-1 .u-image-4 {
   min-height: 174px;
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/default-image.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25));
   background-position: 50% 50%;
 }
 
@@ -97,7 +96,7 @@
 
 .u-section-1 .u-image-5 {
   min-height: 174px;
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/default-image.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25));
   background-position: 50% 50%;
 }
 
@@ -115,7 +114,7 @@
 
 .u-section-1 .u-image-6 {
   min-height: 238px;
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/895925026-03.jpeg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25));
   background-position: 5.99% 100%;
 }
 
@@ -145,7 +144,7 @@
 
 .u-section-1 .u-image-8 {
   min-height: 238px;
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("images/895925026-02.jpeg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15));
   background-position: 50% 50%;
 }
 
@@ -156,7 +155,6 @@
 .u-section-1 .u-image-9 {
   width: 95px;
   height: 95px;
-  background-image: url("images/Reico_Mineral.B.Sign.JPG");
   background-position: 50% 50%;
   margin: 7px auto 0;
 }
@@ -173,7 +171,7 @@
 
 .u-section-1 .u-image-10 {
   min-height: 238px;
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("images/895925026-0.jpeg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15));
   background-position: 50% 50%;
 }
 
@@ -193,7 +191,7 @@
 
 .u-section-1 .u-image-11 {
   min-height: 238px;
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url("images/54e7d74b4d50aa14f6da8c7dda793678153bdee757596c48732f72dc974dc55db9_1280.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.1), rgba(0,0,0,0.1));
   background-position: 50% 50%;
 }
 
@@ -509,7 +507,6 @@
 
 .u-section-2 .u-image-1 {
   min-height: 420px;
-  background-image: url("images/Agne_gwadwf.JPG");
   background-position: 50% 50%;
 }
 
@@ -934,7 +931,7 @@
     min-height: 212px;
   }
 }.u-section-5 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/5fe3d7474e5ab108f5d084609629317e113fdce15b4c704f75267cd69748c450_1280.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
   background-position: 50% 50%;
 }
 
