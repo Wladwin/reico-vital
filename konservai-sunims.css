@@ -1475,7 +1475,6 @@
   grid-template-rows: auto;
   width: 726px;
   grid-gap: 23px 23px;
-  height: auto;
   margin: 23px auto 17px;
 }
 
@@ -1575,6 +1574,7 @@
   .u-section-7 .u-list-1 {
     min-height: 688px;
     grid-template-columns: calc(33.3333% - 15.3333px) calc(33.3333% - 15.3333px) calc(33.3333% - 15.3333px);
+    height: auto;
     margin-right: initial;
     margin-left: initial;
     width: auto;
