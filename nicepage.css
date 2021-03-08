@@ -34186,7 +34186,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-nav-6 {
-  font-size: 1rem;
+  font-size: 1.5rem;
 }
 
 .u-header .u-nav-7 {
@@ -34272,11 +34272,6 @@ a.u-link.u-text-hover-grey-90:hover {
     min-height: 83px;
   }
 
-  .u-header .u-image-1 {
-    width: auto;
-    height: auto;
-  }
-
   .u-header .u-social-icons-1 {
     height: 40px;
     width: 40px;
@@ -34298,7 +34293,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-image-1 {
     width: auto;
-    height: 32px;
+    height: auto;
   }
 
   .u-header .u-social-icons-1 {
