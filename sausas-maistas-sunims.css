@@ -3,25 +3,25 @@
 }
 
 .u-section-1 .u-image-1 {
-  min-height: 616px;
-  background-position: 50% 57.4%;
+  min-height: 600px;
+  background-position: 50% 53.89%;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-image-1 {
-    min-height: 508px;
+    min-height: 495px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-image-1 {
-    min-height: 389px;
+    min-height: 379px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-image-1 {
-    min-height: 292px;
+    min-height: 284px;
   }
 }
 
