@@ -34212,7 +34212,7 @@ a.u-link.u-text-hover-grey-90:hover {
   background-image: none;
   letter-spacing: normal;
   font-weight: 700;
-  margin: -36px 71px 17px auto;
+  margin: -34px 71px 15px auto;
   padding: 7px 25px 9px 24px;
 }
 @media (max-width: 1199px) {
@@ -34236,7 +34236,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-btn-1 {
-    margin-top: -36px;
+    margin-top: -34px;
     margin-right: 81px;
     padding: 4px 22px 6px 20px;
   }
@@ -34252,7 +34252,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-social-icons-1 {
-    margin-top: 20px;
+    margin-top: 22px;
   }
 
   .u-header .u-menu-1 {
@@ -34263,7 +34263,7 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-btn-1 {
     margin-top: -42px;
     margin-right: auto;
-    margin-bottom: 30px;
+    margin-bottom: 37px;
     padding: 2px 12px 3px 11px;
   }
 }
@@ -34275,26 +34275,20 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-social-icons-1 {
     height: 40px;
     width: 40px;
-    margin-top: 22px;
   }
 
   .u-header .u-menu-1 {
-    margin-top: -41px;
+    margin-top: -44px;
   }
 
   .u-header .u-btn-1 {
     margin-top: -42px;
-    margin-bottom: 17px;
+    margin-bottom: 38px;
   }
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
     min-height: 75px;
-  }
-
-  .u-header .u-image-1 {
-    width: auto;
-    height: auto;
   }
 
   .u-header .u-social-icons-1 {
@@ -34308,7 +34302,7 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-btn-1 {
     font-size: 1.125rem;
     margin-top: -35px;
-    margin-bottom: 21px;
+    margin-bottom: 31px;
     padding-top: 0;
     padding-right: 13px;
     padding-bottom: 0;
