@@ -34136,7 +34136,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 87px;
+  min-height: 89px;
 }
 
 .u-header .u-image-1 {
@@ -34162,7 +34162,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-menu-1 {
-  margin: -35px auto 0;
+  margin: -34px auto 0;
 }
 
 .u-header .u-nav-1 {
@@ -34212,7 +34212,7 @@ a.u-link.u-text-hover-grey-90:hover {
   background-image: none;
   letter-spacing: normal;
   font-weight: 700;
-  margin: -35px 71px 17px auto;
+  margin: -36px 71px 17px auto;
   padding: 7px 25px 9px 24px;
 }
 @media (max-width: 1199px) {
@@ -34231,19 +34231,19 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-menu-1 {
     width: auto;
-    margin-top: -35px;
+    margin-top: -34px;
     margin-left: 134px;
   }
 
   .u-header .u-btn-1 {
-    margin-top: -35px;
+    margin-top: -36px;
     margin-right: 81px;
     padding: 4px 22px 6px 20px;
   }
 }
 @media (max-width: 991px) {
   .u-header .u-sheet-1 {
-    min-height: 74px;
+    min-height: 92px;
   }
 
   .u-header .u-image-1 {
@@ -34252,38 +34252,44 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-social-icons-1 {
-    margin-top: 12px;
+    margin-top: 20px;
   }
 
   .u-header .u-menu-1 {
-    margin-top: -45px;
+    margin-top: -44px;
     margin-left: 0;
   }
 
   .u-header .u-btn-1 {
     margin-top: -42px;
     margin-right: auto;
-    margin-bottom: 17px;
+    margin-bottom: 30px;
     padding: 2px 12px 3px 11px;
   }
 }
 @media (max-width: 767px) {
   .u-header .u-sheet-1 {
-    min-height: 66px;
+    min-height: 83px;
   }
 
   .u-header .u-social-icons-1 {
     height: 40px;
     width: 40px;
+    margin-top: 22px;
+  }
+
+  .u-header .u-menu-1 {
+    margin-top: -41px;
   }
 
   .u-header .u-btn-1 {
     margin-top: -42px;
+    margin-bottom: 17px;
   }
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 58px;
+    min-height: 75px;
   }
 
   .u-header .u-image-1 {
@@ -34292,17 +34298,17 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-social-icons-1 {
-    margin-top: 11px;
+    margin-top: 17px;
   }
 
   .u-header .u-menu-1 {
-    margin-top: -43px;
+    margin-top: -41px;
   }
 
   .u-header .u-btn-1 {
     font-size: 1.125rem;
-    margin-top: -37px;
-    margin-bottom: 13px;
+    margin-top: -35px;
+    margin-bottom: 21px;
     padding-top: 0;
     padding-right: 13px;
     padding-bottom: 0;
