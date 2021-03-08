@@ -15,11 +15,19 @@
   .u-section-1 .u-sheet-1 {
     min-height: 573px;
   }
+
+  .u-section-1 .u-image-1 {
+    width: 967px;
+  }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
     min-height: 439px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 749px;
   }
 }
 
@@ -32,6 +40,10 @@
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
     min-height: 282px;
+  }
+
+  .u-section-1 .u-image-1 {
+    object-position: 15.48% 100%;
   }
 }.u-section-2 {
   background-image: none;
