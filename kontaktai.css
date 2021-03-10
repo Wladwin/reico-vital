@@ -31,15 +31,16 @@
 }
 
 .u-section-3 .u-sheet-1 {
-  min-height: 465px;
+  min-height: 466px;
 }
 
 .u-section-3 .u-list-1 {
-  min-height: 428px;
+  min-height: 433px;
   grid-template-columns: 25% 25% 25% 25%;
   width: 1052px;
   grid-gap: 0px 0px;
-  margin: 20px auto -527px;
+  height: auto;
+  margin: 20px auto 13px;
 }
 
 .u-section-3 .u-list-item-1 {
@@ -357,9 +358,8 @@
   }
 
   .u-section-3 .u-list-1 {
-    min-height: 353px;
+    min-height: 357px;
     width: 900px;
-    height: auto;
     margin-bottom: -444px;
     margin-left: 0;
   }
@@ -427,7 +427,7 @@
   }
 
   .u-section-3 .u-list-1 {
-    min-height: 1082px;
+    min-height: 1094px;
     grid-template-columns: calc(50% - 9.33333px) calc(50% - 9.33333px);
     width: 660px;
   }
