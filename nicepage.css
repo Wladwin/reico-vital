@@ -16733,7 +16733,7 @@ p {
 .u-font-ubuntu.u-custom-font {
   font-family: Ubuntu, sans-serif !important;
 }
-.u-font-titillium-Web.u-custom-font {
+.u-font-titillium-web.u-custom-font {
   font-family: 'Titillium Web', sans-serif !important;
 }
 .u-font-merriweather.u-custom-font {
@@ -16745,8 +16745,8 @@ p {
 .u-font-playfair-display.u-custom-font {
   font-family: 'Playfair Display', serif !important;
 }
-.u-font-Lobster.u-custom-font {
-  font-family: Lobster, cursive !important;
+.u-font-lobster.u-custom-font {
+  font-family: Lobster, display !important;
 }
 .u-rectangle {
   border-radius: 0;
@@ -18481,6 +18481,9 @@ a.pswp__share--download:hover {
 .u-carousel {
   position: relative;
 }
+.u-carousel.pointer-event {
+  touch-action: pan-y;
+}
 .u-carousel-inner {
   position: relative;
   width: 100%;
@@ -18767,12 +18770,6 @@ a.pswp__share--download:hover {
 }
 .u-carousel-duration-0 .u-carousel-inner .u-carousel-item {
   transition-duration: 0ms;
-}
-@media (max-width: 767px) {
-  .u-carousel-control-prev,
-  .u-carousel-control-next {
-    display: none;
-  }
 }
 .u-carousel-fade .u-carousel-inner .u-carousel-item {
   opacity: 0;
@@ -34159,6 +34156,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-icon-1 {
   height: 100%;
+  color: rgb(59, 89, 152) !important;
 }
 
 .u-header .u-menu-1 {
@@ -34166,7 +34164,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-nav-1 {
-  font-size: 1.125rem;
+  font-size: 1.25rem;
 }
 
 .u-header .u-nav-2 {
@@ -34319,18 +34317,22 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-footer .u-icon-1 {
   height: 100%;
+  color: rgb(59, 89, 152) !important;
 }
 
 .u-footer .u-icon-2 {
   height: 100%;
+  color: rgb(85, 172, 238) !important;
 }
 
 .u-footer .u-icon-3 {
   height: 100%;
+  color: rgb(197, 54, 164) !important;
 }
 
 .u-footer .u-icon-4 {
   height: 100%;
+  color: rgb(0, 122, 185) !important;
 }
 
 .u-footer .u-text-1 {
